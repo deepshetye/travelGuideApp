@@ -53,4 +53,3 @@ const Map = ({ setCoordinates, setBounds, coordinates, places, setChildClicked }
 }
 
 export default Map
-// simple comment
